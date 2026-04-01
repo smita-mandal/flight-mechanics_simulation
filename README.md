@@ -1,4 +1,3 @@
-# flight-mechanics_simulation
 ✈️ Pilatus PC-9 Flight Mechanics Simulation & Handling Qualities Analysis
 
 📌 **Overview:**
@@ -42,22 +41,9 @@ These scenarios evaluate different modes of motion such as short-period, roll, a
 
 The simulation follows a modular architecture-
 
-Main.m
-├── Initialisation.m
-├── Flight_Simulation.m
-├── Trim.m
-├── Integrate.m
-├── StateRates.m
-├── BodyForces.m
-├── WindForces.m
-├── PropForces.m
-├── Controls.m
-├── FlowProperties.m
-├── AeroAngles.m
-├── AngularRates.m
-├── Gravity.m
-├── DCM.m
-└── PlotData.m
+
+<img width="700" height="690" alt="image" src="https://github.com/user-attachments/assets/eafb8d1a-b19c-446c-b67b-3d64073ae010" />
+
 
 📌 The workflow includes initialisation → trim → simulation → integration → plotting, as shown in the simulation flow diagram .
 
