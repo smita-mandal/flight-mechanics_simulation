@@ -75,6 +75,9 @@ This project was completed as part of AERO3560 – Flight Mechanics 1 at the Uni
 
 This project demonstrates the integration of flight dynamics modelling, control response simulation, and stability analysis, providing a comprehensive framework for evaluating aircraft performance and handling qualities.
 
+📄 **Documentation:**
+
+* 📘 [PC-9 Flight Simulation and Stability Analysis Report](docs/pc9-flight-simulation-and-stability-analysis-report.pdf)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ **Instructions to Run:**
 1. Open MATLAB and navigate to the project directory.
