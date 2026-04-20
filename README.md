@@ -79,6 +79,14 @@ This project demonstrates the integration of flight dynamics modelling, control 
 
 * 📘 [PC-9 Flight Simulation and Stability Analysis Report](docs/pc9-flight-simulation-and-stability-analysis-report.pdf)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📁 **Repository Structure:**
+
+/src           → MATLAB source code  
+/data          → Supporting MATLAB data files  
+/results       → Plots and simulation outputs
+/docs          → Supporting documentation
+
+
 ▶️ **Instructions to Run:**
 1. Open MATLAB and navigate to the project directory.
 2. Run the main function by specifying the desired simulation case:
@@ -101,4 +109,4 @@ This project demonstrates the integration of flight dynamics modelling, control 
 ⚠️ **Note:**
    Ensure all required MATLAB files are in the same directory or added to the MATLAB path before running the simulation.
   
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
