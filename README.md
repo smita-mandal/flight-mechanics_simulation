@@ -83,8 +83,8 @@ This project demonstrates the integration of flight dynamics modelling, control 
 
 /src           → MATLAB source code  
 /data          → Supporting MATLAB data files  
-/results       → Plots and simulation outputs
-/docs          → Supporting documentation
+/results       → Plots and simulation outputs  
+/docs          → Supporting documentation 
 
 
 ▶️ **Instructions to Run:**
